@@ -1,0 +1,12 @@
+.title {
+    color: blueviolet;
+    visibility: hidden;
+}
+
+.movie_card:hover .title {
+    visibility: visible;
+} 
+
+p i {
+    color: blueviolet;
+}
